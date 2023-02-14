@@ -5,22 +5,20 @@ Our data reveal an imbalance of donor-derived and recipient-derived macrophages 
 
 
 
-The computational work was motivated by 3 main objectives: 
+The computational framework includes: 
 
-1) Provide a single nuclei atlas of the human heart
+1) Initial processing of sequencing data and QC.
 
-2) Evaluate cell-type molecular and compositional information at increased spatial resolution.
+2) Integration of transplanted heart data with control, cell identity annotationa and visulization.
 
-3) Explore spatial dependencies between cell-types and molecular processes to generate descriptions of the tissue organization during disease.
+3) Exploration and investigation of functional differences in gene expression and cell-state shift that may have pathological implications. 
 
 ### Availability of data
 
-**Exceptions:**
-Raw data can't be directly provided at the moment. Processed data will be available in proper data repositories after publication.
+Raw data and processed data will be available in NIH GEO repositories upon publication.
 
 ***
 
  ### How to cite
- > Kuppe C, Ramirez Flores RO, Li Z, et al. “Multi-omic map of human myocardial infarction.” bioRxiv. 2020. DOI: [10.1101/2020.12.08.411686](https://www.biorxiv.org/content/10.1101/2020.12.08.411686v1%20%20)
-To access the code of the bioRxiv please look at the following [tag](https://github.com/saezlab/visium_heart/releases/tag/biorxiv)
+ > Details will be made available soon.
 
